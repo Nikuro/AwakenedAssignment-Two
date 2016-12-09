@@ -1,0 +1,4 @@
+﻿  TextAdventure.cpp
+c:\users\brendan\documents\visual studio 2015\projects\textadventure\textadventure\textadventure.cpp(47): warning C4018: '<=': signed/unsigned mismatch
+  TextAdventure.vcxproj -> C:\Users\Brendan\Documents\Visual Studio 2015\Projects\TextAdventure\Debug\TextAdventure.exe
+  TextAdventure.vcxproj -> C:\Users\Brendan\Documents\Visual Studio 2015\Projects\TextAdventure\Debug\TextAdventure.pdb (Full PDB)
